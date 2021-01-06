@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/practicando/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/practicando/static/js/main.1801ef9b.chunk.js",
+    "main.js.map": "/practicando/static/js/main.1801ef9b.chunk.js.map",
+    "runtime-main.js": "/practicando/static/js/runtime-main.8db68dac.js",
+    "runtime-main.js.map": "/practicando/static/js/runtime-main.8db68dac.js.map",
+    "static/js/2.ecd42629.chunk.js": "/practicando/static/js/2.ecd42629.chunk.js",
+    "static/js/2.ecd42629.chunk.js.map": "/practicando/static/js/2.ecd42629.chunk.js.map",
+    "static/js/3.e3dd67a5.chunk.js": "/practicando/static/js/3.e3dd67a5.chunk.js",
+    "static/js/3.e3dd67a5.chunk.js.map": "/practicando/static/js/3.e3dd67a5.chunk.js.map",
+    "index.html": "/practicando/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/practicando/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ecd42629.chunk.js.LICENSE.txt": "/practicando/static/js/2.ecd42629.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/practicando/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8db68dac.js",
+    "static/js/2.ecd42629.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.1801ef9b.chunk.js"
+  ]
+}
